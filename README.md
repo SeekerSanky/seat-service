@@ -1,2 +1,2 @@
-chore(LAB-1): initial commit
+feat(LAB-2): #seat service
 Seats available: 180
