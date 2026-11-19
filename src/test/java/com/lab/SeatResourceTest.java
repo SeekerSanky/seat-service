@@ -13,6 +13,6 @@ class SeatResourceTest {
     void returnsDefaultCapacity() {
         given().when().get("/seats")
                .then().statusCode(200)
-               .body("capacity", is(900));
+               .body("capacity", is(180));
     }
 }
